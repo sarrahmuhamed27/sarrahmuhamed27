@@ -5,7 +5,7 @@ Computer Science student at **Capital University**, focused on **Machine Learnin
 ## Tech Stack
 
 - **Languages:** Python, C++, C, Java, SQL
-- **ML & Data:** scikit-learn, Pandas, NumPy, Matplotlib
+- **ML & Data:** scikit-learn, Pandas, NumPy, Matplotlib, Oracle Database (learning)
 
 ## Contact
 
