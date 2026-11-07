@@ -10,7 +10,6 @@ Computer Science student at **Capital University**, focused on **Machine Learnin
 ## Tech Stack
 
 - **Languages:** Python, C++, C, Java, SQL
-- **Web:** HTML, CSS
 - **ML & Data:** scikit-learn, Pandas, NumPy, Matplotlib
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
