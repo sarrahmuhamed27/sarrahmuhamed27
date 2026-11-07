@@ -1,17 +1,11 @@
 # Hi, I'm Sarah Mohamed
 
-Computer Science student at **Capital University**, focused on **Machine Learning & Artificial Intelligence**. I build with Python, C++, C, and Java, and I'm always learning something new.
-
-## Currently Learning
-
-- Machine Learning and AI fundamentals
-- Building my first projects with Python
+Computer Science student at **Capital University**, focused on **Machine Learning & Artificial Intelligence**. I build with Python, C++, C, and Java, and train for competitive programming.
 
 ## Tech Stack
 
 - **Languages:** Python, C++, C, Java, SQL
 - **ML & Data:** scikit-learn, Pandas, NumPy, Matplotlib
-- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 ## Contact
 
